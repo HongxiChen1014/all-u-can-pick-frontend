@@ -1,5 +1,5 @@
 # All U Can Pick - Bay Area (frontend) <br />
-Heroku address: https://all-u-can-pick-frontend.herokuapp.com/  <br />
+Heroku address: https://all-you-can-pick-frontend.herokuapp.com/  <br />
 Group name: The Ladybugs <br />
 Group members: Hongxi Chen, Jingyi Luo, Shasha Wang <br />
 # HOME PAGE
